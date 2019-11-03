@@ -1,7 +1,7 @@
 # Description
 
 Notebook lié à l'article "Traitement Automatique du Langage Naturel en français (TAL / NLP)" disponible sur le blog de stat4decision à l'adresse :
-
+https://www.stat4decision.com/fr/traitement-langage-naturel-francais-tal-nlp/
 
 ## Comment utiliser les contenus ?
 
